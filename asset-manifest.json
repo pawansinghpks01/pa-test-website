@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pa-test-website/static/css/main.3470e749.css",
+    "main.js": "/pa-test-website/static/js/main.9d3e701f.js",
+    "index.html": "/pa-test-website/index.html",
+    "main.3470e749.css.map": "/pa-test-website/static/css/main.3470e749.css.map",
+    "main.9d3e701f.js.map": "/pa-test-website/static/js/main.9d3e701f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3470e749.css",
+    "static/js/main.9d3e701f.js"
+  ]
+}
